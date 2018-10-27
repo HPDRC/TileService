@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="rsourcelist.aspx.cs" Inherits="TileService.rsourcelist" %>

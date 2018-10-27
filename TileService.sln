@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileService", "TileService\TileService.csproj", "{C194339C-BF54-4854-AB0C-2EA5499D202D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.cs.fiu.edu:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TileService\\TileService.csproj
+		SccProjectName1 = TileService
+		SccLocalPath1 = TileService
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C194339C-BF54-4854-AB0C-2EA5499D202D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C194339C-BF54-4854-AB0C-2EA5499D202D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C194339C-BF54-4854-AB0C-2EA5499D202D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C194339C-BF54-4854-AB0C-2EA5499D202D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
